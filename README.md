@@ -3,7 +3,9 @@
 
 ___
 
-
+What is an SSL Certificate?
+SSL stands for Secure Sockets Layer. At the core, this technology helps to secure an internet connection and protect any data that’s transferred between a browser and a web server.
+More info read https://www.hostgator.com/blog/what-is-a-ssl-certificate/
 Let’s Encrypt is a Certificate Authority (CA) that provides an easy way to obtain and install free TLS/SSL certificates, thereby enabling encrypted HTTPS on web servers. It simplifies the process by providing a software client, Certbot, that attempts to automate most (if not all) of the required steps.
 
 ___
