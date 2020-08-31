@@ -20,8 +20,8 @@ Install Certbot’s Nginx package with apt:
 ```
 sudo apt install python-certbot-nginx
 ```
-### Step 3 — Confirming Route53, create A record
-### Step 4 — Confirming Nginx’s Configuration
+### Step 3 — Configure Route53, create A record
+### Step 4 — Configure Nginx’s
 Next, we will create an Nginx server block file. As an example, we will refer to this file as example.com, although you may find it helpful to give yours a more descriptive name.
 ```
 sudo nano /etc/nginx/sites-available/example.com
